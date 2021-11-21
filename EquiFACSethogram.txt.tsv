@@ -1,0 +1,43 @@
+Point event	1	AU101	Inner brow raiser	Upper Face
+Point event	Q	AU143	Eye closure	Upper Face
+Point event	W	AU145	Blink	Upper Face
+Point event	E	AU47	Half blink	Upper Face
+Point event	A	AU5	Upper lid raiser	Upper Face
+Point event	S	AU10	Upper lip raiser	Upper Face
+Point event	D	AU12	Lip corner puller	Lower Face
+Point event	Z	AU113	Sharp lip puller	Lower Face
+Point event	I	AUH13	Nostril lift	Lower Face
+Point event	X	AU16	Lower lip depressor	Lower Face
+Point event	O	AU17	Chin raiser	Lower Face
+Point event	C	AU18	Lip pucker	Lower Face
+Point event	V	AU122	Upper lip curl	Lower Face
+Point event	B	AU24	Lip presser	Lower Face
+Point event	N	AU25	Lips part	Lower Face
+Point event	M	AU26	Jaw drop	Lower Face
+Point event	,	AU27	Mouth stretch	Lower Face
+Point event	L	AD1	Eye white increase	Upper Face
+Point event	T	AD101	Ears forward	Ears
+Point event	Y	AD102	Ears adductor	Ears
+Point event	U	AD103	Ear flattener	Ears
+Point event	I	AD104	Ear rotator	Ears
+Point event	O	AD160	Lower lip relax	Lower Face
+Point event	P	AD19	Tongue show	Misc
+Point event	G	AD29	Jaw thrust	Misc
+Point event	H	AD30	Jaw sideways	Misc
+Point event	J	AD133	Blow	Misc
+Point event	K	AD38	Nostril dilator	Misc
+Point event	2	AD50	Vocalization	Gross
+Point event	3	AD76	Yawning	Gross
+Point event	4	AD80	Swallow	Gross
+Point event	5	AD81	Chewing	Gross
+Point event	6	AD85	Head nod up and down	Gross
+Point event	7	AD86	Grooming	Gross
+Point event	8	AD87	Ear shake	Gross
+Point event	0	AD51	Head turn left	Head
+Point event	0	AD52	Head turn right	Head
+Point event	0	AD53	Head up	Head
+Point event	0	AD54	Head down	Head
+Point event	0	AD55	Head tilt left	Head
+Point event	0	AD56	Head tilt right	Head
+Point event	-	AD57	Nose forward	Head
+Point event	-	AD58	Nose back	Head
